@@ -1,3 +1,10 @@
+
+/* 
+Name: Md Omar Faruk
+Roll: 14
+Batch: 104
+*/
+
 #include <stdio.h>
 #include<math.h>
 
